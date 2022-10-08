@@ -19,6 +19,8 @@ The following software requirements apply:
 - Libraries:
   - pandas
   - NumPy
+  - Matplotlib
+  - Seaborn
   - requests
   - tweepy
   - json
